@@ -130,11 +130,11 @@ const CONFIG = {
   // ==========================================
   images: {
     basePath: "/assets/clients/active/",
-    hero: "/assets/clients/active/Kitchen-Sink-Installation-Wide-Angle.webp",
-    about: "/assets/clients/active/20201218_164520.webp",
-    whyUs: "/assets/clients/active/2025-11-04.webp",
+    hero: "/assets/clients/active/20201218_164520.webp",
+    about: "/assets/clients/active/2025-11-04.webp",
+    whyUs: "/assets/clients/active/Kitchen-Sink-Installation-Wide-Angle.webp",
     contact: "/assets/clients/active/unnamed.webp",
-    og: "/assets/clients/active/Kitchen-Sink-Installation-Wide-Angle.webp",
+    og: "/assets/clients/active/20201218_164520.webp",
     favicon: "/favicon.svg",
 
     services: {
